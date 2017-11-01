@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>vcxml</name>
+	<displayName><![CDATA[V-Coders XML Export]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Export for Adwords]]></description>
+	<author><![CDATA[Vladimir Dudnik]]></author>
+	<tab><![CDATA[other]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
